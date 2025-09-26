@@ -12,7 +12,9 @@ EchoPlanner uses environment-based configuration for security and deployment fle
 - Security and SSL settings
 
 ### AI Integration
-- OpenAI API keys and model selection
+- OpenRouter API keys and model selection (GPT-4, Claude, Llama, etc.)
+- Local LLM configuration and model paths (Ollama, LM Studio)
+- Model switching and failover strategies
 - Processing parameters and limits
 - Fallback options for offline operation
 

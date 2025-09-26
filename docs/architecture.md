@@ -8,6 +8,7 @@ EchoPlanner follows a modular architecture designed for scalability and maintain
 
 - **Email Processing Layer**: Handles IMAP connections and email parsing
 - **AI Agent System**: Modular agents for text, image, and voice processing
+- **Agent Storage System**: Persistent memory for context and deduplication
 - **Calendar Integration**: MCP connector and local storage systems
 - **Family Management**: Role-based user and event assignment system
 - **API Layer**: RESTful interfaces for external integrations
